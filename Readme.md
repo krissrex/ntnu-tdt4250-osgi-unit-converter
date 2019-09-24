@@ -1,3 +1,6 @@
+The bundles provide modularity by separating conserns like server, gogo shell, and different types of conversions.
+The system is extensible because the server uses @Reference and can take in any Converter component, which it will use.
+To extend with a new converter, register a new bundle with a Converter component, or use the gogo shell with `addConversion "F = C * 1.8 + 32"`.
 
 
 *Disclaimer*: I worked alongside Morten Stulen, so our assignments are inspired by each other.  
