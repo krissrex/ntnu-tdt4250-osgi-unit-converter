@@ -1,0 +1,18 @@
+-buildpath: \
+	osgi.annotation;version=7.0.0,\
+	osgi.core;version=7.0.0,\
+	osgi.cmpn;version=7.0.0,\
+	slf4j.api,\
+	no.ntnu.tdt4250.oving2.conversion;version=latest,\
+	no.ntnu.tdt4250.oving2.conversion.expression;version=latest
+
+-testpath: \
+	${junit},\
+	${mockito},\
+	${mockito-deps}
+
+Bundle-Version: 0.0.0.${tstamp}
+-runfw: org.eclipse.osgi;version='[3.13.100.v20180827-1536,3.13.100.v20180827-1536]'
+-runee: JavaSE-11
+Private-Package: no.ntnu.tdt4250.oving2.gogo
+Bundle-Activator: no.ntnu.tdt4250.oving2.gogo.Activator

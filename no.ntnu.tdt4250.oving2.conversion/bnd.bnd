@@ -1,0 +1,7 @@
+Bundle-Version: 1.0.0.${tstamp}
+
+-baseline: *
+-buildpath: \
+  osgi.annotation; version=7.0.0
+
+Export-Package: no.ntnu.tdt4250.oving2.conversion

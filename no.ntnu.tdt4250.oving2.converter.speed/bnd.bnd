@@ -1,0 +1,25 @@
+-buildpath: \
+	osgi.annotation;version=7.0.0,\
+	osgi.core;version=7.0.0,\
+	osgi.cmpn;version=7.0.0,\
+	no.ntnu.tdt4250.oving2.conversion.expression;version=latest,\
+	no.ntnu.tdt4250.oving2.conversion;version=latest,\
+	slf4j.api
+
+-testpath: \
+	${junit},\
+	${mockito},\
+	${mockito-deps}
+
+Bundle-Version: 0.0.0.${tstamp}
+-runfw: org.eclipse.osgi;version='[3.13.100.v20180827-1536,3.13.100.v20180827-1536]'
+-runee: JavaSE-11
+-runrequires: bnd.identity;id='no.ntnu.tdt4250.oving2.converter.speed'
+-runbundles: \
+	ch.qos.logback.classic;version='[1.2.3,1.2.4)',\
+	ch.qos.logback.core;version='[1.2.3,1.2.4)',\
+	no.ntnu.tdt4250.oving2.conversion;version=snapshot,\
+	no.ntnu.tdt4250.oving2.conversion.expression;version=snapshot,\
+	no.ntnu.tdt4250.oving2.converter.speed;version=snapshot,\
+	slf4j.api;version='[1.7.25,1.7.26)'
+-resolve: auto
