@@ -30,7 +30,7 @@ conversion:removeConversion from:String to:String
 ### Adding a custom converter with gogo
 
 `addConversion "G = 50 * H + 1"`  
-`http://localhost:8080/convert?from=H&to=G&value=1`
+`http://localhost:8080/convert?from=H&to=G&value=25`
 
 ### Removing a custom converter
 
