@@ -1,0 +1,13 @@
+1569337537158	Delete element
+1569337539425	Delete element
+1569338905616	Extract local variable 'context'
+1569338953407	Extract local variable 'registration'
+1569339188576	Extract local variable 'registration'
+1569339384534	Rename local variable 'argument'
+1569339394255	Extract local variable 'converter'
+1569340214983	Extract local variable 'serviceReferences'
+1569340223023	Extract local variable 'bundleContext'
+1569340291535	Extract local variable 'service'
+1569340556925	Rename local variable 'service'
+1569340562458	Rename local variable 'service'
+1569340589375	Extract local variable 'conversion'

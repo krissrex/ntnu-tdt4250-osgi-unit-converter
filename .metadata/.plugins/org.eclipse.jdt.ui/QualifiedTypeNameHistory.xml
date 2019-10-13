@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Application"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="org.osgi.service.log.Logger"/>
+    <fullyQualifiedTypeName name="org.osgi.service.log.LoggerFactory"/>
+    <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.LoggerFactory"/>
+    <fullyQualifiedTypeName name="org.osgi.service.component.annotations.Reference"/>
+    <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.Logger"/>
+    <fullyQualifiedTypeName name="no.ntnu.tdt4250.oving2.server.ConversionResource"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="javax.script.ScriptEngineManager"/>
+    <fullyQualifiedTypeName name="javax.script.ScriptEngine"/>
+    <fullyQualifiedTypeName name="javax.script.ScriptContext"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="net.bytebuddy.asm.Advice.Thrown"/>
+    <fullyQualifiedTypeName name="jdk.jfr.Experimental"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="no.ntnu.tdt4250.oving2.conversion.expression.ExpressionBasedConverter"/>
+    <fullyQualifiedTypeName name="no.ntnu.tdt4250.oving2.converter.speed.LbToKgConverterTest"/>
+    <fullyQualifiedTypeName name="no.ntnu.tdt4250.oving2.converter.speed.LbToKgConverter"/>
+    <fullyQualifiedTypeName name="org.hamcrest.core.Is"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.QueryParam"/>
+    <fullyQualifiedTypeName name="org.osgi.service.component.annotations.Component"/>
+    <fullyQualifiedTypeName name="org.osgi.framework.BundleContext"/>
+    <fullyQualifiedTypeName name="org.osgi.framework.BundleActivator"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="org.osgi.framework.FrameworkUtil"/>
+    <fullyQualifiedTypeName name="no.ntnu.tdt4250.oving2.gogo.Activator"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="org.osgi.framework.ServiceRegistration"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="no.ntnu.tdt4250.oving2.conversion.expression.FieldExpressionConverter"/>
+    <fullyQualifiedTypeName name="no.ntnu.tdt4250.oving2.conversion.Conversion"/>
+    <fullyQualifiedTypeName name="no.ntnu.tdt4250.oving2.conversion.Converter"/>
+    <fullyQualifiedTypeName name="org.osgi.framework.ServiceReference"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

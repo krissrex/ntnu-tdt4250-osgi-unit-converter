@@ -1,0 +1,6 @@
+slf4j.api;version='[1.7.25,1.7.26)';resolution=file:/C:/Users/krire/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
+no.ntnu.tdt4250.oving2.conversion.expression;version=snapshot;resolution=file:/C:/Users/krire/eclipse/oving2-workspace/no.ntnu.tdt4250.oving2.conversion.expression/generated/no.ntnu.tdt4250.oving2.conversion.expression.jar
+ch.qos.logback.classic;version='[1.2.3,1.2.4)';resolution=file:/C:/Users/krire/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar
+no.ntnu.tdt4250.oving2.converter.speed;version=snapshot;resolution=file:/C:/Users/krire/eclipse/oving2-workspace/no.ntnu.tdt4250.oving2.converter.speed/generated/no.ntnu.tdt4250.oving2.converter.speed.jar
+no.ntnu.tdt4250.oving2.conversion;version=snapshot;resolution=file:/C:/Users/krire/eclipse/oving2-workspace/no.ntnu.tdt4250.oving2.conversion/generated/no.ntnu.tdt4250.oving2.conversion.jar
+ch.qos.logback.core;version='[1.2.3,1.2.4)';resolution=file:/C:/Users/krire/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar

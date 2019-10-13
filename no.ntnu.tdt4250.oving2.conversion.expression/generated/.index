@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<repository xmlns="http://www.osgi.org/xmlns/repository/v1.0.0" name="no.ntnu.tdt4250.oving2.conversion.expression" increment="1569335987590">
+  <resource>
+    <capability namespace="osgi.identity">
+      <attribute name="osgi.identity" value="no.ntnu.tdt4250.oving2.conversion.expression"/>
+      <attribute name="type" value="osgi.bundle"/>
+      <attribute name="version" value="0.0.0.201909241439" type="Version"/>
+    </capability>
+    <capability namespace="osgi.wiring.bundle">
+      <attribute name="bundle-version" value="0.0.0.201909241439" type="Version"/>
+      <attribute name="osgi.wiring.bundle" value="no.ntnu.tdt4250.oving2.conversion.expression"/>
+    </capability>
+    <capability namespace="osgi.wiring.host">
+      <attribute name="bundle-version" value="0.0.0.201909241439" type="Version"/>
+      <attribute name="osgi.wiring.host" value="no.ntnu.tdt4250.oving2.conversion.expression"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <directive name="uses" value="no.ntnu.tdt4250.oving2.conversion"/>
+      <attribute name="version" value="1.0.0" type="Version"/>
+      <attribute name="osgi.wiring.package" value="no.ntnu.tdt4250.oving2.conversion.expression"/>
+    </capability>
+    <capability namespace="osgi.content">
+      <attribute name="size" value="8326" type="Long"/>
+      <attribute name="url" value="generated/no.ntnu.tdt4250.oving2.conversion.expression.jar"/>
+      <attribute name="mime" value="application/vnd.osgi.bundle"/>
+      <attribute name="osgi.content" value="D86E19D7515B054AA02E015BAAB3AE84EA5AA624A8FE1282B78640F99C7A60F7"/>
+    </capability>
+    <capability namespace="bndtools.workspace">
+      <attribute name="bndtools.workspace" value="file:/C:/Users/krire/eclipse/oving2-workspace"/>
+      <attribute name="project.path" value="/no.ntnu.tdt4250.oving2.conversion.expression"/>
+    </capability>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=javax.script))"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=no.ntnu.tdt4250.oving2.conversion)(&amp;(version&gt;=1.0.0)(!(version&gt;=2.0.0))))"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.slf4j)(&amp;(version&gt;=1.6.0)(!(version&gt;=2.0.0))))"/>
+    </requirement>
+    <requirement namespace="osgi.ee">
+      <directive name="filter" value="(&amp;(osgi.ee=JavaSE)(version=11))"/>
+    </requirement>
+  </resource>
+</repository>

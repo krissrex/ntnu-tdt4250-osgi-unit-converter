@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<repository xmlns="http://www.osgi.org/xmlns/repository/v1.0.0" name="no.ntnu.tdt4250.oving2.conversion" increment="1569335541340">
+  <resource>
+    <capability namespace="osgi.identity">
+      <attribute name="osgi.identity" value="no.ntnu.tdt4250.oving2.conversion"/>
+      <attribute name="type" value="osgi.bundle"/>
+      <attribute name="version" value="1.0.0.201909241432" type="Version"/>
+    </capability>
+    <capability namespace="osgi.wiring.bundle">
+      <attribute name="bundle-version" value="1.0.0.201909241432" type="Version"/>
+      <attribute name="osgi.wiring.bundle" value="no.ntnu.tdt4250.oving2.conversion"/>
+    </capability>
+    <capability namespace="osgi.wiring.host">
+      <attribute name="bundle-version" value="1.0.0.201909241432" type="Version"/>
+      <attribute name="osgi.wiring.host" value="no.ntnu.tdt4250.oving2.conversion"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="version" value="1.0.0" type="Version"/>
+      <attribute name="osgi.wiring.package" value="no.ntnu.tdt4250.oving2.conversion"/>
+    </capability>
+    <capability namespace="osgi.content">
+      <attribute name="size" value="4565" type="Long"/>
+      <attribute name="url" value="generated/no.ntnu.tdt4250.oving2.conversion.jar"/>
+      <attribute name="mime" value="application/vnd.osgi.bundle"/>
+      <attribute name="osgi.content" value="863949313FBCC6DECD7D6294632111EB75AA94D1AE2CF485F69FAF2051B5F986"/>
+    </capability>
+    <capability namespace="bndtools.workspace">
+      <attribute name="bndtools.workspace" value="file:/C:/Users/krire/eclipse/oving2-workspace"/>
+      <attribute name="project.path" value="/no.ntnu.tdt4250.oving2.conversion"/>
+    </capability>
+    <requirement namespace="osgi.ee">
+      <directive name="filter" value="(&amp;(osgi.ee=JavaSE)(version=11))"/>
+    </requirement>
+  </resource>
+</repository>

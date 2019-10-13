@@ -1,0 +1,14 @@
+1569330771846	Extract local variable 'parts'
+1569330934197	Extract local variable 'pattern'
+1569331124692	Extract local variable 'unitWordMatcher'
+1569331167734	Extract constant 'WORD_REGEX'
+1569332009242	Extract local variable 'binding'
+1569332017005	Rename local variable 'binding'
+1569332106652	Extract local variable 'result'
+1569332502834	Delete element
+1569332504956	Delete element
+1569332561066	Extract local variable 'actualy'
+1569332567976	Rename local variable 'actualy'
+1569333947867	Extract local variable 'actual'
+1569334036157	Extract local variable 'conversion'
+1569334186328	Extract local variable 'fromExpression'
